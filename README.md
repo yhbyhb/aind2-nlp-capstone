@@ -1,3 +1,5 @@
+**This page is my personal result of Udacity nanodegree project. Below is original contents of this project.**
+
 # Introduction
 In this notebook, you will build a deep neural network that functions as part of an end-to-end machine translation pipeline. Your completed pipeline will accept English text as input and return the French translation.
 
